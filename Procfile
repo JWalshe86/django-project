@@ -1,1 +1,1 @@
-web: waitress my_project.wsgi --log-file -
+web: waitress-serve my_project.wsgi --log-file -
